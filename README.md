@@ -1,6 +1,3 @@
-Here's a possible description for your GitHub repository:
-
----
 
 # PS4 V2 DualShock 4 Controller - Buying Page  
 
@@ -24,4 +21,3 @@ Feel free to clone or download this repository and use it as a template for your
 
 ---
 
-Let me know if you'd like to add more details or sections!
